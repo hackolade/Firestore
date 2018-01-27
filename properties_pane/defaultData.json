@@ -1,0 +1,34 @@
+{
+	"model": {
+		"modelName": "New model",
+		"dbVersion": "",
+		"dbVendor": "Cloud Firestore"
+	},
+	"container": {
+		"name": "New database",
+		"indexes": []
+	},
+	"collection": {
+		"collectionName": "New collection",
+		"collectionUsers": [],
+		"collation": {}
+	},
+	"field": {
+		"name": "New field"
+	},
+	"patternField": {
+		"name": "^[a-zA-Z0-9_.-]{20}$"
+	},
+	"multipleField": {
+		"primaryKey": false
+	},
+	"subschema": {},
+	"arrayItem": {},
+	"choice": {},
+	"relationship": {},
+	"user": {},
+	"view": {
+		"viewOn": "",
+		"pipeline": ""
+	}
+}
