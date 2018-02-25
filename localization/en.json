@@ -134,5 +134,11 @@
 	"COLLECTION_SCHEMA_DEFINITION_NAME": "Type definitions",
 	"COLLECTION_SCHEMA_DEFINITION_TYPE": "document",
 	"MONGODB_SCRIPT_WARNING_MESSAGE": "This view is not associated to a type (viewOn property).",
-	"TYPE": {}
+	"TYPE": {},
+	"CENTRAL_PANE___TAB_MODEL_DEFINITIONS": "User-Defined Types",
+	"CONTEXT_MENU___ADD_MODEL_REFERENCE": "User-Defined Type",
+	"CONTEXT_MENU___GO_TO_DEFINITION": "Go to User-Defined Type",
+	"DOCUMENTATION___DB_DEFINITIONS": "User-Defined Types",
+	"CONTEXT_MENU___CONVERT_TO_PATTERN_FIELD": "Convert to Pattern Field",
+	"CONTEXT_MENU___CONVERT_PATTERN_TO_REGULAR_FIELD": "Convert to Regular Field"
 }

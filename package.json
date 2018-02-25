@@ -1,7 +1,7 @@
 {
     "name": "Firestore",
-    "version": "0.1.0",
-    "versionDate": "2018-01-27",
+    "version": "0.1.1",
+    "versionDate": "2018-02-25",
     "author": "hackolade",
     "engines": {
         "hackolade": "1.12.x",
