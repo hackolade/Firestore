@@ -15,10 +15,16 @@
         },
         "features": {
             "jaySchemaHasRequiredPatternField": true,
-            "nestedCollections": true
+            "nestedCollections": true,
+            "enableReverseEngineering": {
+                "jsonDocument": true,
+                "jsonSchema": true,
+                "ddl": true,
+                "xsd": true,
+                "plugin": false
+            }
         }
     },
     "description": "Hackolade plugin for Google Cloud Firestore",
-    "icon_url": "C:\\Users\\Pascal\\.hackolade\\plugins\\Firestore\\logo.jpg",
     "disabled": false
 }
