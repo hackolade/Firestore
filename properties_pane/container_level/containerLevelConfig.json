@@ -97,7 +97,8 @@ making sure that you maintain a proper JSON format.
 			"defaultType": "object",
 			"valueType": "object",
 			"disabledFieldOption": true,
-			"entityType": "patternField"
+			"entityType": "patternField",
+			"propertiesRoot": true
 		}],
 		"structure": [
 			{
