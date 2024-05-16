@@ -1,15 +1,15 @@
 'use strict';
 
 module.exports = {
-	connect: function(connectionInfo, cb){
-		cb()
+	connect: function (connectionInfo, cb) {
+		cb();
 	},
 
-	disconnect: function(connectionInfo, cb){
-		cb()
+	disconnect: function (connectionInfo, cb) {
+		cb();
 	},
 
-	testConnection: function(connectionInfo, cb){
+	testConnection: function (connectionInfo, cb) {
 		cb(true);
-	}
+	},
 };
