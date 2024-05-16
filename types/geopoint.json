@@ -15,8 +15,6 @@
 		"maxProperties": "",
 		"additionalProperties": false,
 		"enum": [],
-		"subTypes": [
-			{ "name": "object", "snippet": "geopoint-object" }
-		]
+		"subTypes": [{ "name": "object", "snippet": "geopoint-object" }]
 	}
 }
