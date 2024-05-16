@@ -90,9 +90,7 @@ making sure that you maintain a proper JSON format.
 				"shouldValidate": false,
 				"propertyTooltip": "DB vendor",
 				"propertyType": "select",
-				"options": [
-					"Cloud Firestore"
-				],
+				"options": ["Cloud Firestore"],
 				"disabledOption": true
 			},
 			{
@@ -101,8 +99,7 @@ making sure that you maintain a proper JSON format.
 				"shouldValidate": false,
 				"propertyTooltip": "DB version",
 				"propertyType": "select",
-				"options": [
-				],
+				"options": [],
 				"disabledOption": true
 			},
 			{
