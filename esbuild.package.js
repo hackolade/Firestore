@@ -17,7 +17,7 @@ esbuild
 		bundle: true,
 		keepNames: true,
 		platform: 'node',
-		target: 'node16',
+		target: 'node18',
 		outdir: RELEASE_FOLDER_PATH,
 		minify: true,
 		logLevel: 'info',
