@@ -157,6 +157,14 @@ making sure that you maintain a proper JSON format.
 			"additionalProperties",
 			"comments"
 		],
+		"geopoint": [
+			"schemaId",
+			"dependencies",
+			"required",
+			"primaryKey",
+			"additionalProperties",
+			"comments"
+		],
 		"array": "array",
 		"null": "null"
 	}
