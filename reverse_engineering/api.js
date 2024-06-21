@@ -1,1 +1,1 @@
-"use strict";var t=Object.defineProperty;var c=(o,n)=>t(o,"name",{value:n,configurable:!0});module.exports={connect:c(function(o,n){n()},"connect"),disconnect:c(function(o,n){n()},"disconnect"),testConnection:c(function(o,n){n(!0)},"testConnection")};
+"use strict";module.exports={connect:function(o,n){n()},disconnect:function(o,n){n()},testConnection:function(o,n){n(!0)}};
