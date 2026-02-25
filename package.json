@@ -21,7 +21,8 @@
                 "ddl": true,
                 "xsd": true,
                 "plugin": false
-            }
+            },
+            "restrictNestedFieldsAsPrimaryKey": false
         }
     },
     "description": "Hackolade plugin for Google Cloud Firestore",
